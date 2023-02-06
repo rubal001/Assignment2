@@ -1,0 +1,148 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+}
+header{
+    padding: 50px;
+    background-color: rgb(229, 152, 79);
+}
+header .poster{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    width: 35%;
+}
+.para1{
+    font-style: oblique;
+    font-family: 'Montserrat Alternates',sans-serif;
+    font-weight:bolder ;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    text-align: justify;
+}
+.div1{
+    background-image: url("images/sunrise.jpg");
+    padding: 50px;
+    display: block;
+
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    width: auto;
+    
+}
+
+.para2{
+    text-shadow: white 1px 0 10px;
+    font-weight:bolder ;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    text-align: justify;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    }
+.para3{
+    font-weight:bolder ;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    text-align: justify;
+}
+.div3{
+    padding: 50px;
+    background-color: red;
+    opacity: 0.8;
+}
+.para4{
+    font-family: 'Times New Roman', Times, serif;
+     font-weight:bolder ;
+     display: flex;
+     padding: 50px;
+     align-items: center;
+     justify-content: center;
+    font-size: larger;
+    text-align: justify;
+    
+   
+}
+.div4{
+  padding: 50px;
+    background-image: linear-gradient(rgb(0, 187, 255), rgb(0, 119, 255), rgb(0, 64, 128));
+    background-repeat: no-repeat;
+    background-color: #1ECBE1;
+    color: #0e0e0e;
+    text-shadow: 4px 2px 4px rgba(0,0,0,.5);
+    background-size: cover; }
+   
+.para5{
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: #1ECBE1;
+    color: #0e0e0e;
+    text-shadow: 4px 2px 4px rgba(0,0,0,.5);
+    font-weight:bolder ;
+
+    font-size: larger;
+   
+}
+.div5{
+    padding: 50px;
+    background-color: rgb(231, 17, 17);
+   
+    }
+.para6{
+    text-shadow: 1px 1px 2px rgb(129, 97, 244);
+    font-weight:bolder ;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    text-align: justify;
+}
+.div6{
+    padding: 50px;
+    background-image: linear-gradient(to right, red , yellow);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    }
+    @font-face {
+        font-family: lessonfont;
+        src: url("./images/font/PunkTypewriter.otf");
+    }
+.para7{
+    
+    font-weight:bolder ;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    text-align: justify;
+}
+.div7{
+    font-family: lessonfont;
+    padding: 50px;
+ }
